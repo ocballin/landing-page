@@ -27,8 +27,8 @@ body {
     align-items: center;
 }
 .hero img {
-    width: 38vw;
-    height: auto;
+    width: auto;
+    height: 30vh;
 }
 .hero h1 {
     font-size: 48px;
